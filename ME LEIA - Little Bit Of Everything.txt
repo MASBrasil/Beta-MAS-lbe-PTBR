@@ -1,0 +1,20 @@
+## 📦 Submod criado por:
+- [Betapopish](https://www.reddit.com/user/Betapopish/)
+- [Bach](https://discord.com/users/1212047691358408798)
+
+---
+
+## 🛠️ Instruções de Instalação
+
+1. Acesse a pasta `submods` do submod instalado.
+2. Copie a pasta `Little Bit Of Everything` e coloque para dentro da pasta `submods` do diretório do jogo.
+
+3. Navegue até `\Computador\a` e copie todos os **arquivos de imagem** dessa pasta.
+4. Vá até o diretório do jogo e acesse `game\mod_assets\monika\a`.
+5. Cole os arquivos de imagem copiados nessa pasta.
+
+---
+
+## ❓ Dúvidas ou problemas?
+Entre no nosso servidor do Discord e peça ajuda:
+👉 [https://discord.gg/vq5GZBW42R](https://discord.gg/vq5GZBW42R)
