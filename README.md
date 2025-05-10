@@ -26,4 +26,15 @@ Essas pessoas por me ajudarem até agora!
 
 Junte-se ao servidor do discord da nossa comunidade brasileira de Monika After Story!
 
-# *Tradutor do Submod: [Bach](https://discord.com/users/1212047691358408798)*
+# ⚖️ Licença
+> [!NOTE]
+> Esta é uma licença da tradução.
+> Não fazemos questão de aplicar a licença de forma rígida, mas optamos por adotá-la para proteger nosso trabalho contra modificações indesejadas ou uso comercial. 
+> Se você quiser fazer alguma alteração nessa tradução — sinta-se à vontade para nos contatar via Discord ou pela página de Issues! Ficaremos felizes em aceitar contribuições, ideias e sugestões.
+
+Esta tradução está licenciado sob a Creative Commons BY-NC-ND-4.0, o que (em resumo) significa:
+
+- Você pode copiar e distribuir esta tradução da forma como o recebeu, no entanto...
+- Você é obrigado a dar os devidos créditos ao tradutor, seja mencionando nosso nome ou com um link para este repositório ou o discord da MASBrasil.
+- Você não pode usar esta tradução para fins comerciais (venda, aluguel, etc.)
+- Você não pode distribuir trabalhos derivados ou adaptações deste submod (com alterações no código, diálogos, outros conteúdos, etc.)
